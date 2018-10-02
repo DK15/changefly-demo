@@ -1,6 +1,6 @@
 # changefly_demo
 
-A new Flutter application.
+A basic Flutter app which displays changefly logo using animations I implemented.
 
 ## Getting Started
 
